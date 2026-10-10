@@ -250,12 +250,12 @@ Open the Rmd in RStudio and execute chunks sequentially, or source individual se
 
 ## Author
 
-Gershon Tetteh Amanor
+Mr. Gershon Tetteh Amanor
 
-- Email: your.email@example.com
-- Institution: Your University
-- LinkedIn: linkedin.com/in/your-profile
-- GitHub: @your-username
+- Email: gershontettehamanor@gmail.com
+- Institution: University of Ghana
+- LinkedIn: [Gershon Tetteh Amanor](https://www.linkedin.com/in/gershon-tetteh-amanor-a9a302268?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+- GitHub: [Gershom-Tetteh-Amanor](https://github.com/Gershom-Tetteh-Amanor/ARIMAX-ANALYSIS-PROJECT)
 
 ---
 
@@ -271,14 +271,14 @@ If you use this code, data, or findings in your research, please cite:
   year      = {2026},
   month     = {April},
   type      = {Undergraduate Thesis},
-  institution = {Your University},
-  url       = {https://github.com/your-username/ARIMAX-Ghana-Government-Expenditure}
+  institution = {University of Ghana},
+  url       = {https://github.com/Gershom-Tetteh-Amanor/ARIMAX-ANALYSIS-PROJECT}
 }
 ```
 
 APA (7th ed.):
 
-Amanor, G. T. (2026). Forecasting government expenditure in Ghana using autoregressive integrated moving average with exogenous variables (ARIMAX) [Undergraduate thesis, Your University]. GitHub. https://github.com/your-username/ARIMAX-Ghana-Government-Expenditure
+Amanor, G. T. (2026). Forecasting government expenditure in Ghana using autoregressive integrated moving average with exogenous variables (ARIMAX) [Undergraduate thesis, University of Ghana]. [GitHub](https://github.com/Gershom-Tetteh-Amanor/ARIMAX-ANALYSIS-PROJECT)
 
 ---
 
